@@ -1,5 +1,5 @@
 resg = {
-    rg = {
+    rg1 = {
     name = "rg-moon"
     location = "Central India"
     }
