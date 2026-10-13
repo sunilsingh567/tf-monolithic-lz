@@ -8,7 +8,7 @@ terraform {
 
   backend "azurerm" {
     resource_group_name = "rg-sun"
-    storage_account_name = "stguniverse"
+    storage_account_name = "stguniverse2026"
     container_name = "sptfstate"
     key = "sg.tfstate"
   }
